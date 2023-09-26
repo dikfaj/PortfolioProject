@@ -4,7 +4,7 @@ Welcome to my data portfolio! <br/>
 Here, I document a summary of my projects in the data field.
 
 ## 🔖 Table of Contents
-- [SQL](https://github.com/dikfaj/PortfolioProject/tree/main/README.md#SQL)
+- [SQL](https://github.com/dikfaj/PortfolioProject/blob/main/README.md#SQL)
 
 # SQL
 | Project Link  | Area of Analysis | Description |
