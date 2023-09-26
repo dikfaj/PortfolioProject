@@ -5,6 +5,9 @@ Here, I document a summary of my projects in the data field.
 
 ## 🔖 Table of Contents
 - [SQL](https://github.com/dikfaj/PortfolioProject/blob/main/README.md#SQL)
+- Microsoft Excel
+- Python
+- Tableau
 
 # SQL
 | Project Link  | Area of Analysis | Description |
