@@ -14,7 +14,7 @@ Here, I document a summary of my projects in the data field.
 | ------------- | ------------- | -------------- |
 | [8 Week SQL Challenge](https://github.com/dikfaj/8-Week-SQL-Challenge) | Data analysis | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/)
 
-# Microsoft Exel
+# Microsoft Excel
 | Project Link  | Area of Analysis | Description |
 | ------------- | ------------- | -------------- |
 | [Bike Sales Dashboard](https://github.com/dikfaj/Microsoft-Excel/tree/main/Bike%20Sales%20Dashboard) | Data Preprocessing, Data Visualization | An interactive dashboard about bike sales
