@@ -25,5 +25,6 @@ Here, I document a summary of my projects in the data field.
 # Tableau
 | Project Link  |  Description |
 | ------------- | -------------|
-|[Maven Toys Dashboard](https://public.tableau.com/app/profile/dicki.pajri/viz/MavenToySales_16975281598950/Dashboard1?publish=yes) | interactive dashboard about sales of a toy store called Maven in Mexico from 2017-2018
+|[Maven Toys Dashboard](https://public.tableau.com/app/profile/dicki.pajri/viz/MavenToySales_16975281598950/Dashboard1) |An interactive dashboard about sales of a toy store called Maven in Mexico from 2017-2018
+|[HR Departement Dashboard](https://public.tableau.com/app/profile/dicki.pajri/viz/HRDepartementDashboard/Dashboard3)|An interactive dashboard from the HR department that helps workers to monitor their department| 
 
