@@ -6,7 +6,7 @@ Here, I document a summary of my projects in the data field.
 ## 🔖 Table of Contents
 - [SQL](#sql)
 - [Microsoft Excel](#microsoft-excel)
-- Python
+- [Python](#python)
 - [Tableau](#tableau)
 
 # SQL
@@ -28,3 +28,7 @@ Here, I document a summary of my projects in the data field.
 |[Maven Toys Dashboard](https://public.tableau.com/app/profile/dicki.pajri/viz/MavenToySales_16975281598950/Dashboard1) |An interactive dashboard about sales of a toy store called Maven in Mexico from 2017-2018
 |[HR Departement Dashboard](https://public.tableau.com/app/profile/dicki.pajri/viz/HRDepartementDashboard/Dashboard3)|An interactive dashboard from the HR department that helps workers to monitor their department| 
 
+# Python
+| Project Link  | Area of Analysis | Description |
+| ------------- | ------------- | -------------- |
+|[Bike Sharing](https://github.com/dikfaj/Python/blob/main/Bike%20Sharing/Bike%20Sharing.ipynb)|Data Cleaning, Exploratory Data Analysis, Data Visualization|Final project from Data Scientist bootcamp IDChamp 2023 by Indosat Ooredoo Hutchison & Dicoding |
