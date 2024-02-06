@@ -31,6 +31,6 @@ Here, I document a summary of my projects in the data field.
 # Python
 | Project Link  | Area of Analysis | Description |
 | ------------- | ------------- | -------------- |
-|[RFM Analysys](https://github.com/dikfaj/Python/blob/main/RFM%20Analysis/README.md#rfm-analysis)|Data Cleaning, Exploratory Data Analysis| Making a RFM Analysis using Superstore Dataset|
+|[RFM Analysis](https://github.com/dikfaj/Python/blob/main/RFM%20Analysis/README.md#rfm-analysis)|Data Cleaning, Exploratory Data Analysis| Making a RFM Analysis using Superstore Dataset|
 |[Bike Sharing](https://github.com/dikfaj/Python/blob/main/Bike%20Sharing/Bike%20Sharing.ipynb)|Data Cleaning, Exploratory Data Analysis, Data Visualization|Final project from Data Scientist bootcamp IDChamp 2023 by Indosat Ooredoo Hutchison & Dicoding |
 |[Customer Behavior Analysis](https://github.com/dikfaj/Python/tree/main/Cutomer%20Behavior)|Data Analysis, Data Visualization | xxxxxxx |
